@@ -94,7 +94,7 @@ const App = () => {
       setIsGameOver(true);
       bestWinTime();
     }
-  }, []);
+  }, [cards]);
 
   // bestTime
 
